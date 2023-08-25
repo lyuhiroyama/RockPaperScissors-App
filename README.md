@@ -1,6 +1,6 @@
 # Rock Paper Scissors App!
 
-Goal of the game is to obey what the "AI" tells you to choose from the three buttons: Rock, Paper & Scissor.
+Goal of the game is to obey the 'AI' by choosing the right button out of the three choices: Rock, Paper or Scissors.
 
 Project 3.5 for Paul Hudson's 100 days of SwiftUI (with a little twist).
 
